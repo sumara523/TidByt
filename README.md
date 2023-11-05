@@ -29,4 +29,4 @@ To deploy:
 
 `pixlet push <Your Device ID> helloworld.webp`
 
-***After you host boat.py to your Rasperry Pi Mattieu, you will need to BOAT_SERVER_URL in helloworld.star with the new url, but keep the appened "/get_bridge_status" because that url is where the bridge status information is fetched from. Bonne chance!
+***After you host boat.py to your Rasperry Pi Mattieu, you will need to update BOAT_SERVER_URL in helloworld.star file with the new url, but keep the appended "/get_bridge_status" because that url is where the bridge status information is fetched from. Bonne chance!
